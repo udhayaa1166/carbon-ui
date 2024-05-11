@@ -1,0 +1,62 @@
+.mdc-typography--headline5, .mdc-text-field__input, .mdc-button, .rmwc-data-table__cell, .mdc-data-table__header-cell,
+.mdc-floating-label, .mdc-typography--headline6, .mdc-typography--body2, .mdc-typography--subtitle2, .actionbtn, .mdc-top-app-bar__title,
+.mdc-dialog__content, .mdc-list, .mdc-select, .mdc-select__selected-text, .mdc-typography--subtitle1 {
+    font-family: 'Roboto, sans-serif' !important;
+}
+
+.mdc-fab{
+    background-color: rgb(75, 174, 240) !important;
+}
+.dataPanelHeader{
+    /* background-color: rgb(201 201 201);  */
+    color: #3d3d3d !important; font-size: 16px;
+}
+
+.dataTable{
+    width: 100%; 
+    /* margin-top: 2rem; */
+}
+
+.mdc-select{
+    width: 100% !important; 
+}
+
+.actionbtn{
+    border-color: #7e7575 !important;
+    color: #7e7575 !important;
+}
+
+.primaryButton{
+    background-color: rgb(75, 174, 240) !important;
+}
+
+.secondryButton{
+    color:  rgb(75, 174, 240) !important; border-color:  rgb(75, 174, 240) !important;
+}
+
+.searchField{
+    background-color: white !important;
+}
+
+.addButton{
+    background-color: #fec0ca !important;
+    color: #111111 !important;
+}
+
+.activeButton{
+    background-color: #cff9df !important;
+    color: #111111 !important;
+}
+
+.archiveButton{
+    background-color: #e5e7eb !important;
+    color: #111111 !important;
+}
+
+.cardButton{
+    color: '#bf5e81' !important;
+}
+
+.m_8fb7ebe7, .mantine-Input-input ,.mantine-TextInput-input{
+    background-color: transparent !important;
+}
